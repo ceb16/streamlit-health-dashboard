@@ -1,14 +1,16 @@
-streamlit
-pandas
-numpy
-matplotlib
-plotly
-seaborn
-scikit-learn
-joblib
+streamlit==1.25.0
+pandas==2.0.3
+numpy==1.23.5
+matplotlib==3.7.2
+plotly==5.18.0
+seaborn==0.12.2
+scikit-learn==1.3.0
+joblib==1.3.2
 statsmodels==0.13.5
 scipy==1.11.4
-requests
-streamlit-lottie
-numerize
+requests==2.31.0
+streamlit-lottie==0.0.5
+numerize==0.12
+beautifulsoup4==4.12.2
+
 
