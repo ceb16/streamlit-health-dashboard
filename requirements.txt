@@ -6,7 +6,7 @@ plotly
 seaborn
 scikit-learn
 joblib
-statsmodels==0.14.0
+statsmodels==0.13.5
 scipy==1.11.4
 requests
 streamlit-lottie
